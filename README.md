@@ -209,4 +209,4 @@ This repository serves as the official landing page for MySQL Workbench. The sof
 **Get the most recent version of MySQL Workbench today!**
 
 ---
-**Last updated:** 2026-11-12 23:02:46 UTC
+**Last updated:** 2026-11-13 04:29:03 UTC
